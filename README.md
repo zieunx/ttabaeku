@@ -1,3 +1,5 @@
+# 따배쿠: 따라 배우는 쿠버네티스 - 입문편
+
 **유튜브 무료 오픈 강의 [따배쿠 - 입문편](https://www.youtube.com/watch?v=6n5obRKsCRQ&list=PLApuRlvrZKohaBHvXAOhUD-RxD0uQ3z0c) 기록**
 
 > 책을 기반으로 한 강의에  설도 너무 잘해주셔서 별다르게 정리할 사항은 없지만, 공부하기 위해 끄적였던 내용 입니다.
